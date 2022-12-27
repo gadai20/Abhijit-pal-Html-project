@@ -1,2 +1,2 @@
 # Abhijit-pal-Html-project
-This is my project on my college
+ https://gadai20.github.io/Abhijit-pal-Html-project/
